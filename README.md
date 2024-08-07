@@ -1,2 +1,2 @@
-# **S**ynthetic **I**mage **R**epresentation (**SIR**), a novel representation learning method for image. 
+# Dual Advancement of Representation Learning and Clustering for Sparse and Noisy Images
 Detailed description is coming soon...
